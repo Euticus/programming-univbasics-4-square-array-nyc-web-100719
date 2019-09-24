@@ -3,6 +3,6 @@ def square_array(array)
   while i<array.length do
     square = i**2
     return square
-    i += 1 
+    i++ 
   end
 end
